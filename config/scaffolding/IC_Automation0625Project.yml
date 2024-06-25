@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: IC_Automation0625Project
+  gitServerName: ICAccountTest0625
+  gitUrl: https://github.com/amlanbhowmick85/IC_Automation0625Project
+  gitUsername: amlanbhowmick85
+  gitBranch: Test/CustomBranch/Test
